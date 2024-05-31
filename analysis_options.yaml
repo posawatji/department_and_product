@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    non_constant_identifier_names: false
+    unnecessary_statements: true
+    prefer_relative_imports: true
+    constant_identifier_names: false
+    directives_ordering: true

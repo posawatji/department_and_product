@@ -1,0 +1,67 @@
+{
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.19.6",
+  "dart.debugSdkLibraries": true,
+  "dart.lineLength": 150,
+  "dart.previewFlutterUiGuides": true,
+  "dart.analysisExcludedFolders": [
+    ".dart_tool",
+    ".fvm",
+    ".idea",
+    ".vscode",
+    "android",
+    "assets",
+    "build",
+    "ios"
+  ],
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      150
+    ],
+    "editor.selectionHighlight": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit",
+      "quickfix.add.required": "explicit",
+      "quickfix.add.required.multi": "explicit",
+      "quickfix.create.constructorForFinalFields": "explicit"
+    }
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "dart-data-class-generator.constructor.default_values": false,
+  "dart-data-class-generator.hashCode.use_jenkins": false,
+  "dart-data-class-generator.json.separate": "ask",
+  "dart-data-class-generator.quick_fixes": true,
+  "dart-data-class-generator.override.manual": false,
+  "dart-data-class-generator.fromMap.enabled": true,
+  "dart-data-class-generator.fromMap.default_values": true,
+  "dart-data-class-generator.copyWith.usesValueGetter": true,
+  "dart-data-class-generator.copyWith.enabled": true,
+  "dart-data-class-generator.equality.enabled": true,
+  "dart-data-class-generator.constructor.enabled": true,
+  "dart-data-class-generator.constructor.required": true,
+  "dart-data-class-generator.json.key_format": "snake_case",
+  "dart-data-class-generator.fromJson.enabled": true,
+  "dart-data-class-generator.hashCode.enabled": true,
+  "dart-data-class-generator.toMap.enabled": true,
+  "dart-data-class-generator.toString.enabled": true,
+  "dart-data-class-generator.toJson.enabled": false,
+  "dart-data-class-generator.useEquatable": true
+}

@@ -1,0 +1,98 @@
+{
+	"v4": {
+		"prefix": "v4",
+		"body": [
+			"const SizedBox(height: 4)"
+		],
+	},
+	"v8": {
+		"prefix": "v8",
+		"body": [
+			"const SizedBox(height: 8)"
+		],
+	},
+	"v16": {
+		"prefix": "v16",
+		"body": [
+			"const SizedBox(height: 16)"
+		],
+	},
+	"v24": {
+		"prefix": "v24",
+		"body": [
+			"const SizedBox(height: 24)"
+		],
+	},
+	"v32": {
+		"prefix": "v32",
+		"body": [
+			"const SizedBox(height:32)"
+		],
+	},
+	"v48": {
+		"prefix": "v48",
+		"body": [
+			"const SizedBox(height: 48)"
+		],
+	},
+	"v56": {
+		"prefix": "v56",
+		"body": [
+			"const SizedBox(height: 56)"
+		],
+	},
+	"v64": {
+		"prefix": "v64",
+		"body": [
+			"const SizedBox(height: 64)"
+		],
+	},
+	"s4": {
+		"prefix": "s4",
+		"body": [
+			"const SizedBox(width: 4)"
+		],
+	},
+	"s8": {
+		"prefix": "s8",
+		"body": [
+			"const SizedBox(width: 8)"
+		],
+	},
+	"s16": {
+		"prefix": "s16",
+		"body": [
+			"const SizedBox(width: 16)"
+		],
+	},
+	"s24": {
+		"prefix": "s24",
+		"body": [
+			"const SizedBox(width: 24)"
+		],
+	},
+	"s32": {
+		"prefix": "s32",
+		"body": [
+			"const SizedBox(width: 32)"
+		],
+	},
+	"s48": {
+		"prefix": "s48",
+		"body": [
+			"const SizedBox(width: 48)"
+		],
+	},
+	"s56": {
+		"prefix": "s56",
+		"body": [
+			"const SizedBox(width: 56)"
+		],
+	},
+	"s64": {
+		"prefix": "s64",
+		"body": [
+			"const SizedBox(width: 64)"
+		],
+	},
+}
